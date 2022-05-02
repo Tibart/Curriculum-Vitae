@@ -1,3 +1,8 @@
+---
+layout: cv
+title: Curriculum Vitae van Tibart Visser
+---
+
 ## Curriculum Vitae
 
 Naam: Tibart J. Visser\
