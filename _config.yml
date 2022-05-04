@@ -1,2 +1,9 @@
 markdown:   kramdown
 style:  davewhipp
+
+author: Tibart J. Visser
+github_username:  Tibart
+
+description: > # this means to ignore newlines until "baseurl:"
+  Curriculum Vitae, samenvatting van mijn loopbaan.
+show_excerpts: true # set to false to remove excerpts on the homepage
