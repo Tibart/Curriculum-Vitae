@@ -21,20 +21,20 @@ profile: >
   waardoor ik op zoek ben naar een uitdagende baan waar ik mijn opgedane kennis 
   en ervaring kan vergroten en waar ik veel en hard kan lachen :-D
 ---
-
+<!-- 
 # Tibart J. Visser
 <a href="tel:{{page.telephone}}">{{page.telephone}}</a> - <a href="mailto:{{ page.email }}">{{ page.email }}</a> - <a href="{{ page.linkedin_link }}" target="_blanc">{{ page.linkedin_link }}</a>
 
-
+ -->
 
 ## Profiel
-Ik lach graag, hard en veel. Het beste wat ik kan doen om dat te bereiken is het uitwerken en realiseren van ICT-vraagstukken. De rode draad in mijn CV is daarom ook dat ongeacht de functie, ik altijd met een ontwikkelproject bezig ben geweest. Ik ben pragmatisch, kritisch en werk graag samen met collega’s en klanten om zo tot het beste resultaat te komen. In de functie als technisch consultant komen techniek en sociale interactie heel goed bij elkaar en ben ik in mijn element. Een tekortkoming is echter dat de ontwikkelomgeving zich beperkt tot Microsoft Dynamics met kleine uitstapjes naar C#. Mijn interesse en nieuwsgierigheid is breder dan dat waardoor ik op zoek ben naar een uitdagende baan waar ik mijn opgedane kennis en ervaring kan vergroten en waar ik veel en hard kan lachen :-D
+{{ page.profile }}
 
 ## Werkervaring
-### Daar
-#### toen
+Stuff
 
 ## Cursussen
+Lalalala
 
 ## Opleiding
 
