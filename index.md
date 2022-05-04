@@ -3,7 +3,7 @@ layout: cv
 title: Curriculum Vitae van Tibart Visser
 
 # Personal info
-name: Tibart J. Visser
+fullname: Tibart J. Visser
 email: tibart@gmail.com
 telephone: +31 (0)6 36 37 69 40
 linkedin_link: https://nl.linkedin.com/in/tibart
