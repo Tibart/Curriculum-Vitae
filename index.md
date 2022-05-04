@@ -23,7 +23,7 @@ profile: >
 ---
 
 # Tibart J. Visser
-{{page.telephone}} - <a href="mailto:{{ page.email }}">{{ page.email }}</a> - <a href="{{ page.linkedin_link }}" target="_blanc">{{ page.linkedin_link }}</a>
+<a href="tel:{{page.telephone}}">{{page.telephone}}</a> - <a href="mailto:{{ page.email }}">{{ page.email }}</a> - <a href="{{ page.linkedin_link }}" target="_blanc">{{ page.linkedin_link }}</a>
 
 
 
