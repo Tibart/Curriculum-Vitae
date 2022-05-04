@@ -23,7 +23,7 @@ profile: >
 ---
 
 # Tibart J. Visser
-## +31 (0) 636 769 40 - [tibart@gmail.com](mailto:tibart@gmail.com) - [nl.linkedin.com/in/tibart](http://nl.linkedin.com/in/tibart)
+{{page.telephone}} - <a href="mailto:{{ page.email }}">{{ page.email }}</a> - <a href="{{ page.linkedin_link }}" target="_blanc">{{ page.linkedin_link }}</a>
 
 
 
